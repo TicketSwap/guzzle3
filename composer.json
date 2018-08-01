@@ -46,7 +46,7 @@
     "require": {
         "php": ">=5.3.3",
         "ext-curl": "*",
-        "symfony/event-dispatcher": "~2.1||~3.0"
+        "symfony/event-dispatcher": "~2.1||~3.0||~4.0"
     },
 
     "autoload": {
